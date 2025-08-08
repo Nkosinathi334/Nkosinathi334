@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nkosinathi334
-- 👀 I’m interested in Data Analytics 
+- 👀 I’m interested in Economics and growing passiona for technology 
 - 🌱 I’m currently learning Python and MySQL 
 
 
